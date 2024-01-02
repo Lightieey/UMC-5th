@@ -29,6 +29,5 @@ public class CheckPageValidator implements ConstraintValidator<CheckPage, Intege
         }
 
         return isValid;
-
     }
 }
